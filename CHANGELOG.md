@@ -9,8 +9,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 [Full Changelog](https://github.com/php-censor/php-censor/compare/1.1.4...1.2.0)
 
-Added
------
+### Added
 
 - [PhpUnit] Badge for PhpUnit plugin coverage level (shields.io). Issue [#306](https://github.com/php-censor/php-censor/issues/306).
 - [Shell] Option "execute_all" for Shell plugin.
@@ -23,13 +22,11 @@ Added
 - Yaml project config validation for project edit web-interface. Pull requests [#332](https://github.com/php-censor/php-censor/pull/332), [#336](https://github.com/php-censor/php-censor/pull/336). Thanks to 
 [@lugark](https://github.com/lugark).
 
-Fixed
------
+### Fixed
 
 - [PHPCodeSniffer] PHPCodeSniffer plugin dependencies for PHP 7.3. Issue [#334](https://github.com/php-censor/php-censor/issues/334). Pull request [#335](https://github.com/php-censor/php-censor/pull/335). Thanks to [@xl32](https://github.com/xl32).
 
-Changed
--------
+### Changed
 
 - Improved code style, documentation and localizations. Pull requests [#331](https://github.com/php-censor/php-censor/pull/331), [#330](https://github.com/php-censor/php-censor/pull/330), [#329](https://github.com/php-censor/php-censor/pull/329), [#328](https://github.com/php-censor/php-censor/pull/328), [#322](https://github.com/php-censor/php-censor/pull/322), [#317](https://github.com/php-censor/php-censor/pull/317). Thanks to 
 [@Ultra9](https://github.com/Ultra9) and [@mixo](https://github.com/mixo).
